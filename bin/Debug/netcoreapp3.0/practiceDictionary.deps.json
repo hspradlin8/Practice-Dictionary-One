@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "practiceDictionary/1.0.0": {
+        "runtime": {
+          "practiceDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practiceDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

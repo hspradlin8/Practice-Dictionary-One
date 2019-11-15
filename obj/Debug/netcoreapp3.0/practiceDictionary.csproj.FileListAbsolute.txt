@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary.deps.json
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary.dll
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/bin/Debug/netcoreapp3.0/practiceDictionary.pdb
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/obj/Debug/netcoreapp3.0/practiceDictionary.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/obj/Debug/netcoreapp3.0/practiceDictionary.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/obj/Debug/netcoreapp3.0/practiceDictionary.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/obj/Debug/netcoreapp3.0/practiceDictionary.dll
+/Users/Heidi/workspace/CSharpDemos/practiceDictionary/obj/Debug/netcoreapp3.0/practiceDictionary.pdb
